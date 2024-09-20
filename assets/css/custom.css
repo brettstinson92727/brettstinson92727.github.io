@@ -1,0 +1,24 @@
+.btn.white {
+  background: #fff;
+  border: 2px solid #232323;
+  box-shadow: rgb(0 0 0 / 10%) 0px 2px 1px !important;
+  color: #232323;
+}
+
+.btn.white:hover, .btn.white:active {
+  background: #232323;
+  color: #fff;
+  border-color: #232323;
+}
+
+.margin-5px-left {
+  margin-left: 5px;
+}
+
+.responsibilities ul li p {
+  margin: 0;
+}
+
+.responsibilities .each-responsibility {
+  margin-bottom: 0.2rem;
+}
