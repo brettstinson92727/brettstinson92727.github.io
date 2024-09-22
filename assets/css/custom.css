@@ -19,6 +19,14 @@
   margin: 0;
 }
 
-.responsibilities .each-responsibility {
+.responsibilities .bullet-level-1 {
   margin-bottom: 0.2rem;
+}
+
+.three-tab-indent {
+  margin-left: 1rem;
+}
+
+.margin-bottom-0 {
+  margin-bottom: 0;
 }
